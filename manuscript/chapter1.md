@@ -1,3 +1,7 @@
+---
+title: ""
+---
+
 # Chapter 1: Why AI, Excel, and PowerShell?
 
 Spreadsheets run the world. They're where messy data lives, where reporting gets hacked together, and where millions of people hit the same walls every day: manual cleanups, repetitive formatting, cut-and-paste chaos.
