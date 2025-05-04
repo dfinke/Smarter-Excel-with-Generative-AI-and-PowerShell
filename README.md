@@ -1,3 +1,5 @@
+![Book in Progress](https://img.shields.io/badge/book-in--progress-blueviolet)  
+
 # Smarter Excel with Generative AI and PowerShell  
 **Workflows That Think — Using PowerShell, Excel, and Beyond**
 
