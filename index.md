@@ -21,8 +21,8 @@ This project explores how to build real-world Excel workflows using AI and Power
 
 ## 💬 Get Involved
 
-- [Start a Discussion](https://github.com/YourRepoName/discussions)
-- [Suggest a Topic](https://github.com/YourRepoName/issues)
+- [Start a Discussion](https://github.com/dfinke/Smarter-Excel-with-Generative-AI-and-PowerShell/discussions)
+- [Suggest a Topic](https://github.com/dfinke/Smarter-Excel-with-Generative-AI-and-PowerShell/issues)
 
 ---
 
