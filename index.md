@@ -10,8 +10,6 @@ nav_order: 1
   <p style="font-size:1.1rem;">An open book project by Doug Finke</p>
 </div>
 
----
-
 ## 📖 Chapters
 
 - [Chapter 1: Why AI, Excel, and PowerShell](./manuscript/chapter1.md)
