@@ -1,6 +1,9 @@
 # Smarter Excel with Generative AI and PowerShell  
 **Workflows That Think — Using PowerShell, Excel, and Beyond**
 
+> ⚡ This repo is the open workspace for an upcoming book by [Doug Finke](https://github.com/dfinke).  
+> 📘 The goal: Teach real-world AI + Excel automation using PowerShell, PSAISuite, and ImportExcel.
+
 This project explores how to bring intelligence, automation, and flexibility to Excel using AI and PowerShell. Learn how to build powerful workflows with [PSAISuite](https://github.com/dfinke/PSAISuite), [ImportExcel](https://github.com/dfinke/ImportExcel), and other tools that bridge Excel and large language models.
 
 ---
