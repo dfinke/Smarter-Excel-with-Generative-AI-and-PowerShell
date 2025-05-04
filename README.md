@@ -1,6 +1,6 @@
 ![Book in Progress](https://img.shields.io/badge/book-in--progress-blueviolet)  
 
-<img src="./assets/cover.png" alt="Smarter Excel with Generative AI and PowerShell" style="width:100%; max-width:720px; display:block; margin:auto;" />
+<img src="./assets/cover.png" alt="Smarter Excel with Generative AI and PowerShell" style="width:75%; max-width:720px; display:block; margin:auto;" />
 
 # Smarter Excel with Generative AI and PowerShell  
 **Workflows That Think — Using PowerShell, Excel, and Beyond**
