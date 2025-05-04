@@ -24,6 +24,6 @@ nav_order: 1
 
 ## 📦 Featured PowerShell Modules
 
-- [ImportExcel](https://github.com/dfinke/ImportExcel) - - PowerShell module to import/export Excel spreadsheets, without Excel
-- [PSAISuite](https://github.com/dfinke/PSAISuite) - PowerShell module - simple, unified interface to multiple Generative AI providers.
-- [PSMCP](https://github.com/dfinke/PSMCP) - PowerShell module - turns your PowerShell scripts into intelligent, conversational services—zero YAML, zero APIs, zero headaches.
+- [ImportExcel](https://github.com/dfinke/ImportExcel) – PowerShell module to import/export Excel spreadsheets, without Excel  
+- [PSAISuite](https://github.com/dfinke/PSAISuite) – Unified interface to multiple Generative AI providers  
+- [PSMCP](https://github.com/dfinke/PSMCP) – Turn PowerShell scripts into intelligent, conversational services
