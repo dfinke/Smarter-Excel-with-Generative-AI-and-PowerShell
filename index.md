@@ -5,7 +5,6 @@ permalink: /
 exclude: true
 ---
 
-
 <div style="text-align:center">
   <img src="./assets/cover.png" alt="Book Cover" style="width:100%; max-width:720px; margin:2rem auto;" />
   <h2 style="margin-top:1rem; font-weight:normal;">Workflows That Think — Using PowerShell, Excel, and Beyond</h2>
