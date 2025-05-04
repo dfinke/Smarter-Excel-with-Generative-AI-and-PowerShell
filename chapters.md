@@ -7,4 +7,4 @@ permalink: /chapters/
 
 ## 📖 Chapters
 
-- [Chapter 1: Why AI, Excel, and PowerShell](/Smarter-Excel-with-Generative-AI-and-PowerShell/manuscript/chapter1.md)
+- [Chapter 1: Why AI, Excel, and PowerShell](./manuscript/chapter1.md)
