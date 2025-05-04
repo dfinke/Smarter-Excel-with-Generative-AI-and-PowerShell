@@ -1,17 +1,2 @@
 title: Smarter Excel with Generative AI and PowerShell
 theme: minima
-# remote_theme: just-the-docs/just-the-docs
-
-# search_enabled: false
-
-# aux_links:
-#   View on GitHub: https://github.com/dfinke/Smarter-Excel-with-Generative-AI-and-PowerShell
-
-# # Fix title overlap in sidebar
-# style: |
-#   .site-title {
-#     font-size: 1rem;
-#     line-height: 1.3rem;
-#     white-space: normal;
-#     word-break: break-word;
-#   }
