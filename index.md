@@ -1,5 +1,5 @@
 ---
-title: Home
+title: ""
 layout: page
 permalink: /
 exclude: true
