@@ -1,5 +1,8 @@
----
-title: ""
+-
+layout: default
+title: Chapter 1: Why AI, Excel, and PowerShell
+nav_order: 2
+parent: Chapters
 ---
 
 # Chapter 1: Why AI, Excel, and PowerShell?
