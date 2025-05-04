@@ -1,5 +1,5 @@
 ---
-title: Chapter 1: Why AI, Excel, and PowerShell
+title: ""
 ---
 
 # Chapter 1: Why AI, Excel, and PowerShell?

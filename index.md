@@ -1,5 +1,5 @@
 ---
-title: Home
+title: ""
 ---
 
 <div style="text-align:center">
