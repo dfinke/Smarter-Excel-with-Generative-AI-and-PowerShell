@@ -2,8 +2,10 @@
 layout: default
 title: Chapters
 nav_order: 2
-has_children: true
 permalink: /chapters/
 ---
 
-This section collects all chapters in the book.
+## 📖 Chapters
+
+- [Chapter 1: Why AI, Excel, and PowerShell](../manuscript/chapter1.md)
+
