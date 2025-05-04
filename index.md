@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Smarter Excel
 layout: page
 permalink: /
 exclude: true
@@ -14,7 +14,7 @@ exclude: true
 
 ## 📖 Chapters
 
-- [Chapter 1: Why AI, Excel, and PowerShell](./manuscript/chapter1.md)
+- [Chapter 1: Why AI, Excel, and PowerShell](https://github.com/dfinke/Smarter-Excel-with-Generative-AI-and-PowerShell/blob/main/manuscript/chapter1.md)
 
 ---
 
