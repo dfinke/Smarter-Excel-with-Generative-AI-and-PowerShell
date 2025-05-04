@@ -38,6 +38,32 @@ This project explores how to bring intelligence, automation, and flexibility to 
 
 ---
 
+## 📘 About This Project
+
+**Smarter Excel with Generative AI and PowerShell** is an open book project. It shows how to bring spreadsheets into the AI era using PowerShell, automation, and modern language models.
+
+> The entire book is being written in public.  
+> Every chapter, every script, every idea—available right here in this repo.
+
+---
+
+## 💡 Why Buy the Book on Leanpub?
+
+You don’t need to. Everything’s free.
+
+But if you want the **clean, polished, portable version**:
+
+✅ Downloadable PDF/EPUB  
+✅ Perfect for Kindle or tablets  
+✅ One-click reading  
+✅ All chapters bundled  
+✅ Supports future updates
+
+👉 [Coming Soon on Leanpub](https://leanpub.com/)  
+(or [subscribe here](https://github.com/dfinke/Smarter-Excel-with-Generative-AI-and-PowerShell/discussions) for updates)
+
+---
+
 ## 📖 Read the Draft
 
 - [Chapter 1: Why AI, Excel, and PowerShell](./manuscript/chapter1.md)
