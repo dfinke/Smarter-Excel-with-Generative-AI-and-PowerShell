@@ -1,5 +1,8 @@
 ---
-title: ""
+title: Chapter 1: Why AI, Excel, and PowerShell
+layout: page
+permalink: /chapter1/
+exclude: true
 ---
 
 # Chapter 1: Why AI, Excel, and PowerShell?
