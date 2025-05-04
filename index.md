@@ -7,9 +7,11 @@
 Welcome to the companion site for the upcoming book by [Doug Finke](https://github.com/dfinke).
 
 This project explores how to build real-world Excel workflows using AI and PowerShell with tools like:
-- [PSAISuite](https://github.com/dfinke/PSAISuite)
-- [ImportExcel](https://github.com/dfinke/ImportExcel)
-- [PSMCP](https://github.com/dfinke/PSMCP)
+- [ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import/export Excel spreadsheets, without Excel
+- [PSAISuite](https://github.com/dfinke/PSAISuite) - PowerShell module - simple, unified interface to multiple Generative AI providers.
+- [PSMCP](https://github.com/dfinke/PSMCP) - PSMCP turns your PowerShell scripts into intelligent, conversational services—zero YAML, zero APIs, zero headaches.
+
+
 
 ---
 
