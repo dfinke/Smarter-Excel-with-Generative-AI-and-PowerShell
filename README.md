@@ -1,6 +1,6 @@
 ![Book in Progress](https://img.shields.io/badge/book-in--progress-blueviolet)  
 <div align="center">
-  <img src="assests/cover.png" alt="alt text" width="250"/>
+  <img src="assets/cover.png" alt="alt text" width="250"/>
 </div>
 
 # Smarter Excel with Generative AI and PowerShell  
@@ -36,6 +36,12 @@ This project explores how to bring intelligence, automation, and flexibility to 
 8. Going Agentic: PSMCP and Beyond
 9. Real-World Scenarios and Templates
 10. What's Next: AI-Native Excel Workflows
+
+---
+
+## 📖 Read the Draft
+
+- [Chapter 1: Why AI, Excel, and PowerShell](./manuscript/chapter1.md)
 
 ---
 
