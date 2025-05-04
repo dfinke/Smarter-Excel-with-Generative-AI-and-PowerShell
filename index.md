@@ -1,31 +1,31 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
 
-<img src="/Smarter-Excel-with-Generative-AI-and-PowerShell/assets/cover.png" alt="Smarter Excel with Generative AI and PowerShell" style="width:75%; max-width:720px; display:block; margin:auto;" />
-
-# Smarter Excel with Generative AI and PowerShell  
-**Workflows That Think — Using PowerShell, Excel, and Beyond**
-
-Welcome to the companion site for the upcoming book by [Doug Finke](https://github.com/dfinke).
-
-This project explores how to build real-world Excel workflows using AI and PowerShell with tools like:
-- [ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import/export Excel spreadsheets, without Excel
-- [PSAISuite](https://github.com/dfinke/PSAISuite) - PowerShell module - simple, unified interface to multiple Generative AI providers.
-- [PSMCP](https://github.com/dfinke/PSMCP) - PSMCP turns your PowerShell scripts into intelligent, conversational services—zero YAML, zero APIs, zero headaches.
-
-
+<div style="text-align:center">
+  <img src="./assets/cover.png" alt="Book Cover" style="width:100%; max-width:720px; margin:2rem auto;" />
+  <h2 style="margin-top:1rem; font-weight:normal;">Workflows That Think — Using PowerShell, Excel, and Beyond</h2>
+  <p style="font-size:1.1rem;">An open book project by Doug Finke</p>
+</div>
 
 ---
 
-## 📖 Draft Chapters
+## 📖 Chapters
 
 - [Chapter 1: Why AI, Excel, and PowerShell](./manuscript/chapter1.md)
 
 ---
 
-## 💬 Get Involved
+## 💬 Join the Discussion
 
-- [Start a Discussion](https://github.com/dfinke/Smarter-Excel-with-Generative-AI-and-PowerShell/discussions)
-- [Suggest a Topic](https://github.com/dfinke/Smarter-Excel-with-Generative-AI-and-PowerShell/issues)
+- [Share ideas or questions](https://github.com/dfinke/Smarter-Excel-with-Generative-AI-and-PowerShell/discussions)
 
 ---
 
-© Doug Finke – 2025
+## 📦 Featured PowerShell Modules
+
+- [ImportExcel](https://github.com/dfinke/ImportExcel) - - PowerShell module to import/export Excel spreadsheets, without Excel
+- [PSAISuite](https://github.com/dfinke/PSAISuite) - PowerShell module - simple, unified interface to multiple Generative AI providers.
+- [PSMCP](https://github.com/dfinke/PSMCP) - PowerShell module - turns your PowerShell scripts into intelligent, conversational services—zero YAML, zero APIs, zero headaches.
