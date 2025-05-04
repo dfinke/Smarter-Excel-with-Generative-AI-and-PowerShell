@@ -4,5 +4,5 @@ remote_theme: just-the-docs/just-the-docs
 logo: /assets/cover.png
 search_enabled: false
 
-aux_links:
-  View on GitHub: https://github.com/dfinke/Smarter-Excel-with-Generative-AI-and-PowerShell
+# aux_links:
+#   View on GitHub: https://github.com/dfinke/Smarter-Excel-with-Generative-AI-and-PowerShell
