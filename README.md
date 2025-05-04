@@ -1,6 +1,7 @@
 ![Book in Progress](https://img.shields.io/badge/book-in--progress-blueviolet)  
-
-![alt text](assests/cover.png)
+<div align="center">
+  <img src="assests/cover.png" alt="alt text" width="250"/>
+</div>
 
 # Smarter Excel with Generative AI and PowerShell  
 **Workflows That Think — Using PowerShell, Excel, and Beyond**
