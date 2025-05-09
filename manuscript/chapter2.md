@@ -35,7 +35,7 @@ The [ImportExcel module](https://github.com/dfinke/ImportExcel) gives you a way 
 Here’s what that flow looks like in PowerShell:
 
 ```powershell
-$outputReport = '.\Report.xlsx'
+$outputReport = '.\result.xlsx'
 Remove-Item $outputReport -ErrorAction Ignore
 
 $data = Import-Csv .\sales.csv
