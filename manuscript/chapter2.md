@@ -46,7 +46,7 @@ Export-Excel $outputReport -WorksheetName Sales -AutoSize `
     -PivotRows Region -PivotData @{ Units = 'Sum' } -Activate -Show 
 ```
 
-📁 [View the full script on GitHub]()
+📁 [View the full script on GitHub](https://github.com/dfinke/Smarter-Excel-with-Generative-AI-and-PowerShell/blob/add-chapter-2/manuscript/data/chapter2/example1/script.ps1)
 
 You just:
 
@@ -57,6 +57,7 @@ You just:
 
 And you did it in a few lines of code—**reproducibly**.
 
+![alt text](images/chapter2/Example1-PowerShell-Shortcut.png)
 ---
 
 ## 🧠 Sprinkle in AI: PSAISuite Joins the Workflow
