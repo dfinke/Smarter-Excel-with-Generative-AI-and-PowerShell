@@ -28,7 +28,7 @@ That’s where PowerShell enters.
 
 ---
 
-## ⚡ The PowerShell Shortcut: `ImportExcel`
+### Example 1:⚡ The PowerShell Shortcut: `ImportExcel`
 
 The [ImportExcel module](https://github.com/dfinke/ImportExcel) gives you a way to script all those manual steps—without opening Excel at all.
 
@@ -45,6 +45,8 @@ Where-Object { $_.Region -ne 'West' } |
 Export-Excel $outputReport -WorksheetName Sales -AutoSize `
     -PivotRows Region -PivotData @{ Units = 'Sum' } -Activate -Show 
 ```
+
+📁 [View the full script on GitHub]()
 
 You just:
 
