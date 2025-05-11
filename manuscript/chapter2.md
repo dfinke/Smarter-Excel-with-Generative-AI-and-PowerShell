@@ -46,7 +46,7 @@ Export-Excel $outputReport -WorksheetName Sales -AutoSize `
     -PivotRows Region -PivotData @{ Units = 'Sum' } -Activate -Show 
 ```
 
-📁 [View the full script on GitHub](https://github.com/dfinke/Smarter-Excel-with-Generative-AI-and-PowerShell/blob/add-chapter-2/manuscript/data/chapter2/example1/script.ps1)
+📁 [View the full script on GitHub](https://github.com/dfinke/Smarter-Excel-with-Generative-AI-and-PowerShell/blob/main/manuscript/data/chapter2/example1/script.ps1)
 
 You just:
 
