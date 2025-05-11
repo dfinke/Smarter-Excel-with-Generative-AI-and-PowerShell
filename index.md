@@ -13,7 +13,9 @@ exclude: true
 
 ## 📖 Chapters
 
-- [Chapter 1: Why AI, Excel, and PowerShell](https://github.com/dfinke/Smarter-Excel-with-Generative-AI-and-PowerShell/blob/main/manuscript/chapter1.md)
+- [Chapter 1: Why AI, Excel, and PowerShell](manuscript/chapter1.md)  
+  
+- [Chapter 2: From Clicks to Code – Automating Excel Workflows](manuscript/chapter2.md)
 
 ---
 
