@@ -12,7 +12,7 @@ And once you do? You start solving problems faster than you can click through th
 
 ---
 
-## 🧍 Manual Excel Steps: The Familiar Pain
+##🧍Manual Excel Steps: The Familiar Pain
 
 Let’s start with what Excel users actually do, day in and day out:
 
@@ -28,7 +28,7 @@ That’s where PowerShell enters.
 
 ---
 
-### Example 1:⚡ The PowerShell Shortcut: `ImportExcel`
+### Example 1:⚡The PowerShell Shortcut: `ImportExcel`
 
 The [ImportExcel module](https://github.com/dfinke/ImportExcel) gives you a way to script all those manual steps—without opening Excel at all.
 
@@ -60,7 +60,7 @@ And you did it in a few lines of code—**reproducibly**.
 ![alt text](images/chapter2/Example1-PowerShell-Shortcut.png)
 ---
 
-## 🧠 Sprinkle in AI: PSAISuite Joins the Workflow
+### Example 2: 🧠 Sprinkle in AI: PSAISuite Joins the Workflow
 
 Now imagine you want to describe the dataset or decide which pivot view makes the most sense. That’s not about syntax—it’s about **thinking**. This is where AI enters.
 
@@ -79,8 +79,6 @@ Or ask it to:
 This is light-touch AI. It doesn’t replace your logic. It **augments** it.
 
 ---
-
-
 
 ⚠️ When AI Isn’t Magic (Yet)
 
