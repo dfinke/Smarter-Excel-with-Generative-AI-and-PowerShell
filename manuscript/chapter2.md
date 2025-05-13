@@ -57,7 +57,10 @@ You just:
 
 And you did it in a few lines of code—**reproducibly**.
 
-![alt text](images/chapter2/Example1-PowerShell-Shortcut.png)
+![PowerShell automating Excel tasks](images/chapter2/Example1-PowerShell-Shortcut.png)
+
+*Figure 2.1: Automating manual Excel steps using PowerShell and the ImportExcel module.*
+
 ---
 
 ### Example 2: 🧠 Sprinkle in AI: PSAISuite Joins the Workflow
@@ -70,6 +73,8 @@ With [PSAISuite](https://github.com/dfinke/PSAISuite), you can pass your dataset
 Get-Content .\sales.csv | Invoke-ChatCompletion -Messages "Summarize this dataset and suggest a pivot layout."
 ```
 
+📁 [View the full script on GitHub](https://github.com/dfinke/Smarter-Excel-with-Generative-AI-and-PowerShell/blob/main/manuscript/data/chapter2/example2/script.ps1)
+
 Or ask it to:
 
 * Recommend filters
@@ -77,6 +82,10 @@ Or ask it to:
 * Propose calculated columns
 
 This is light-touch AI. It doesn’t replace your logic. It **augments** it.
+
+![PowerShell and AI analyzing a CSV dataset](images/chapter2/Example2-PowerShell-AI-CSV-Analysis.png)
+
+*Figure 2.2: Using PowerShell and AI to analyze and summarize a CSV dataset directly from the command line.*
 
 ---
 
