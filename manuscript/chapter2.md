@@ -12,7 +12,7 @@ And once you do? You start solving problems faster than you can click through th
 
 ---
 
-## 🧍 Manual Excel Steps: The Familiar Pain
+##🧍Manual Excel Steps: The Familiar Pain
 
 Let’s start with what Excel users actually do, day in and day out:
 
@@ -28,7 +28,7 @@ That’s where PowerShell enters.
 
 ---
 
-### Example 1:⚡ The PowerShell Shortcut: `ImportExcel`
+### Example 1:⚡The PowerShell Shortcut: `ImportExcel`
 
 The [ImportExcel module](https://github.com/dfinke/ImportExcel) gives you a way to script all those manual steps—without opening Excel at all.
 
@@ -57,10 +57,13 @@ You just:
 
 And you did it in a few lines of code—**reproducibly**.
 
-![alt text](images/chapter2/Example1-PowerShell-Shortcut.png)
+![PowerShell automating Excel tasks](images/chapter2/Example1-PowerShell-Shortcut.png)
+
+*Figure 2.1: Automating manual Excel steps using PowerShell and the ImportExcel module.*
+
 ---
 
-## 🧠 Sprinkle in AI: PSAISuite Joins the Workflow
+### Example 2: 🧠 Sprinkle in AI: PSAISuite Joins the Workflow
 
 Now imagine you want to describe the dataset or decide which pivot view makes the most sense. That’s not about syntax—it’s about **thinking**. This is where AI enters.
 
@@ -70,6 +73,8 @@ With [PSAISuite](https://github.com/dfinke/PSAISuite), you can pass your dataset
 Get-Content .\sales.csv | Invoke-ChatCompletion -Messages "Summarize this dataset and suggest a pivot layout."
 ```
 
+📁 [View the full script on GitHub](https://github.com/dfinke/Smarter-Excel-with-Generative-AI-and-PowerShell/blob/main/manuscript/data/chapter2/example2/script.ps1)
+
 Or ask it to:
 
 * Recommend filters
@@ -78,9 +83,11 @@ Or ask it to:
 
 This is light-touch AI. It doesn’t replace your logic. It **augments** it.
 
+![PowerShell and AI analyzing a CSV dataset](images/chapter2/Example2-PowerShell-AI-CSV-Analysis.png)
+
+*Figure 2.2: Using PowerShell and AI to analyze and summarize a CSV dataset directly from the command line.*
+
 ---
-
-
 
 ⚠️ When AI Isn’t Magic (Yet)
 
